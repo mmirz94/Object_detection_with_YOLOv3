@@ -6,5 +6,6 @@ The ideas presented in the notebook of the project (YOLO_v3.ipynb) come primaril
 1. [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
 2. [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242)
 3. [YOLOv3: An Incremental Improvement](https://arxiv.org/abs/1804.02767)
+
 **Note**: 
 I have modified several components of the code based on my understanding to make it faster and more accurate. This is only my understanding of how things work and it might not be 100% correct. Besides, I have explained each and every step in details in the notebook file. Those explenations are also based on my understanding and might not be 100% accurate/true.
